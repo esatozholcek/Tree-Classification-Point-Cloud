@@ -1,0 +1,13 @@
+SHX are mandatory Esri and AutoCAD shape index positions. This type of file is used to search forward and backward.
+
+DBF is a standard database file used to store attribute data and object IDs. A .dbf file is mandatory for shape files. You can open DBF files in Microsoft Access or Excel.
+
+PRJ is an optional file that contains the metadata associated with the shapefiles coordinate and projection system. 
+
+CPG (Code Page File) files are optional plain text files that describe the encoding applied to create the shapefile. If your shapefile doesn’t have a .cpg file, then it has the system default encoding.
+Character encoding file used by ESRI software products such as the ArcGIS Desktop suite; describes a set of characters for displaying text in shapefiles; helps localize maps for specific languages.
+
+
+Shapefiles are composed of 3 mandatory files .shp, .shx and .dbf.
+
+There are over 150 different GIS file extensions that exist that are exclusively for GIS.
