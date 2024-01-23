@@ -1,3 +1,0 @@
-las file noktaların x,y,z, intensity, red, green, blue ve return_number?, number_of_returns? içermektedir.
-shape file (.shp) ağaçların olduğu bölgelerin çevreleyen geometrik şekilleri içermektedir.
-dsm (.tif) file alanın yükseklik verisi içermektedir.
