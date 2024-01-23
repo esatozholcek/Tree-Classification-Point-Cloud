@@ -19,7 +19,7 @@ Provides the ground truth information for tree locations.
 <img src="https://github.com/esatozholcek/Tree-Classification-Point-Cloud/assets/91495699/1c0c2b10-1e5b-4c53-a034-2d2f70c6a166" width="50%" height="50%">
 
 ### SaintLouisTrees.png
-Serves as an additional ground truth, indicating tree (value 220) and non-tree (value 0) locations in a 1D representation.
+Serves as an additional ground truth, indicating tree (value 220) and non-tree (value 0) locations in a 1D representation.<br>
 <img src="https://github.com/esatozholcek/Tree-Classification-Point-Cloud/assets/91495699/a39ac38a-ec96-449a-b492-63173c70dbbf" width="50%" height="50%">
 
 
