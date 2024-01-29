@@ -1,0 +1,8 @@
+laspy[lazrs,laszip]
+geopandas
+pandas
+matplotlib
+rasterio
+numpy
+scikit-learn
+scikit-learn-intelex
