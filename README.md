@@ -1,6 +1,6 @@
 # **Tree-Classification-Point-Cloud**
 ## Overview
-This project focuses on the classification of trees in Lidar data using machine learning techniques. The Lidar data is stored in a LAS file format (.laz), containing approximately 9 million points. The ground truth for tree classification is provided by a PNG file and a shapefile (.shp), which contains polygons defining the bounds of tree areas. A Digital Surface Model (DSM) is available in TIFF format (.tiff).
+This project focuses on the classification of trees in Lidar data using machine learning techniques. The Lidar data is stored in a LAS file format (.laz), containing approximately 9 million points. The ground truth for tree classification is provided by a PNG file and a shapefile (.shp), which contains polygons defining the bounds of tree areas. A Digital Surface Model (DSM) is available in TIFF format (.tiff). For the test data, tha data was split by horizontally.
 <br>
 <img height="70%" width="70%" src="https://github.com/esatozholcek/Tree-Classification-Point-Cloud/assets/91495699/31b9612f-8280-470d-ba3e-fd8e9d8b1f12">
 
